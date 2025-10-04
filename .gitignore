@@ -1,5 +1,8 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
+abhi.txt
+text.java1.txt
+text.java2.txt
 # Compiled output
 /dist
 /tmp
